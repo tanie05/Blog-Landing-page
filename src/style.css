@@ -1,0 +1,17 @@
+*{
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+}
+.main-container{
+    display: flex;
+    background-color: #edf7f6;
+}
+.column-one{
+    flex: 2;
+}
+.column-two{
+    flex: 1;
+}
